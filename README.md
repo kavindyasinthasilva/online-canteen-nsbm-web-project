@@ -4,7 +4,7 @@
 ### members
 
  -  [kanchna ](https://github.com/Kanchana98?tab=repositories) 
- - [pavithra ]() 
+ - [pavithra ](https://github.com/pndesilva) 
  - [resmitha](https://github.com/Resmitha99) 
  - [kavindu yasintha](https://github.com/kavindyasinthasilva) 
   - [naduntha](https://github.com/kavindyasinthasilva)
