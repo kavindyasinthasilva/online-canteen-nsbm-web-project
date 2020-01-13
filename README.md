@@ -1,7 +1,13 @@
 # online-canteen-nsbm-web-project
 19.1 web presentation - 
 
- [kanchna ](http://linkedin.com/in/kanchana-dilrukshi-b2b9a1184) member.
+### members
+
+ -  [kanchna ](https://github.com/Kanchana98?tab=repositories) 
+ - [pavithra ]() 
+ - [resmitha](https://github.com/Resmitha99) 
+ - [kavindu yasintha](https://github.com/kavindyasinthasilva) 
+ 
 
 ![Image](https://github.com/kavindyasinthasilva/online-canteen-nsbm-web-project/blob/master/.github/ISSUE_TEMPLATE/Screenshot%20(21).png)
 ![Image](https://github.com/kavindyasinthasilva/online-canteen-nsbm-web-project/blob/master/.github/ISSUE_TEMPLATE/Screenshot%20(23).png)
