@@ -10,6 +10,6 @@ include "naduntha.php";
 </div>
 </section>	
 <?php
-include "newslettter.php";
+include "newspeper.php";
 include "footer.php";
 ?>
