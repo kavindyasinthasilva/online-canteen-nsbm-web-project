@@ -45,7 +45,7 @@ include "header.php";
   border-radius: 3px;
 }
 
-input[type=text] {
+input[type=text,value=name] {
   width: 100%;
   margin-bottom: 20px;
   padding: 12px;
