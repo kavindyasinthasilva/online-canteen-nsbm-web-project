@@ -1,5 +1,5 @@
 <?php
-include "naduntha.php";
+include "db.php";
 ?>
 
 
