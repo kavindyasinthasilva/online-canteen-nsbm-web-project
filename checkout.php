@@ -313,4 +313,5 @@ span.price {
 		
 <?php
 include "footer.php";
+include "newsletter.php"
 ?>
