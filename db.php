@@ -1,7 +1,7 @@
 <?php
 
 $servername = "localhost";
-$username = "sky";
+$username = "gg";
 $password = "";
 $db = "onlineshop";
 
