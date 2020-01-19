@@ -45,7 +45,7 @@ include "header.php";
   border-radius: 3px;
 }
 
-input[type=text,value=name] {
+input[type=text] {
   width: 100%;
   margin-bottom: 20px;
   padding: 12px;
@@ -313,5 +313,4 @@ span.price {
 		
 <?php
 include "footer.php";
-include "newsletter.php"
 ?>
