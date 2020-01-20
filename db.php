@@ -17,3 +17,5 @@ if (!$con) {
 ?>
 
 commnt if you can cange password;
+
+and you can cange commit
