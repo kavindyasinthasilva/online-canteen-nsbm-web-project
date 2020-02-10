@@ -1,7 +1,6 @@
 # online-canteen-nsbm-web-project -4
 
 #### develop pixal  group-
-78
 
 
 
@@ -27,4 +26,4 @@
 ![Image](https://github.com/kavindyasinthasilva/online-canteen-nsbm-web-project/blob/master/.github/ISSUE_TEMPLATE/Screenshot%20(26).png)
 
 
-canteen systems
+
