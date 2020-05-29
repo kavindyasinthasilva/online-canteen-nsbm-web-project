@@ -1,7 +1,7 @@
 # online-canteen-nsbm-web-project -4
 
 #### develop pixal  group
-gorup
+gorup Assigments
 
 
 
@@ -12,7 +12,8 @@ gorup
  -  [kanchna ](https://github.com/Kanchana98?tab=repositories) 
  - [pavithra ](https://github.com/pndesilva) 
  - [resmitha](https://github.com/Resmitha99) 
- - [kavindu yasintha](https://github.com/kavindyasinthasilva) 
+ - [kavindu yas
+ intha](https://github.com/kavindyasinthasilva) 
   - [naduntha](https://github.com/kavindyasinthasilva)
   
  
