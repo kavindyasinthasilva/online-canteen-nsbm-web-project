@@ -1,11 +1,12 @@
 # online-canteen-nsbm-web-project -4
+🪂👨🏾‍🎓👨🏽‍💻🤘🏻
 
 #### develop pixal  group
-gorup Assigments
+gorup Assigments✋🏻 
 
 
 
-19.1 web presentation -  Nsbm
+19.1 web presentation -  Nsbm👨🏻‍🎓
 
 ### members
 
