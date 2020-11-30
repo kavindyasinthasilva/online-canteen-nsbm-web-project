@@ -13,8 +13,7 @@ gorup Assigments✋🏻
  -  [kanchna ](https://github.com/Kanchana98?tab=repositories) 
  - [pavithra ](https://github.com/pndesilva) 
  - [resmitha](https://github.com/Resmitha99) 
- - [kavindu yas
- intha](https://github.com/kavindyasinthasilva) 
+ - [kavindu yasintha](https://github.com/kavindyasinthasilva) - Group Leder  
   - [naduntha](https://github.com/kavindyasinthasilva)
   
  
